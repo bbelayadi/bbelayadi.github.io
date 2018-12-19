@@ -1,0 +1,7 @@
+html {background-image:url(Background.jpg);}
+body {width:800px; padding:50px; margin-top:10px; margin-left:auto; margin-right:auto;color:plum}
+body {text-align:center; font-family:fantasy; background-color: #F0F8FF;}
+p {font-size:14pt; color:plum; text-decoration:none;}
+a {text-emphasis-position: above;  height:2px; width:10px; padding:10px; margin-top:5px;font-size:10pt; color:darkslateblue; text-decoration:none;}
+
+a:hover {color:#fff;} 
